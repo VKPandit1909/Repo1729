@@ -1,0 +1,6 @@
+# taking integer input value from the user
+num=int(input("Enter No."))
+# taking string value from the user
+str=input("Enter Name")
+# + denotes Concatenation
+print(num + str)
